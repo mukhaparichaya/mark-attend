@@ -3,7 +3,7 @@ This is the companion Teacher’s App for the Face Recognition Based Attendance 
 
 No more manual roll calls or spreadsheet headaches – streamline your classroom management effortlessly! ⚡✅
 
-👉 [Download the App (APK)](https://expo.dev/artifacts/eas/pwU7qH8LYtdrBAwz4TG6RS.apk)
+👉 [Download the App (APK)](https://expo.dev/artifacts/eas/w6J4afVXpSHoGLVSHoZpdR.apk)
 
 ## 🚀 Getting Started with the App
 Follow these steps to begin using the Teacher’s App:
